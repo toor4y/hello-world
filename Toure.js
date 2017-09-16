@@ -1,3 +1,1 @@
 This is my new file
-What is going on
-"Toure".length
