@@ -1,3 +1,4 @@
-This is my new file
-2+2
+<script type="text/javascript"> - this tag is telling the browser that you are running javascript code
+alert("Hello world");
 
+</script>
